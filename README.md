@@ -6,7 +6,7 @@ Okul data çizimlerinden (DWG) kat kat PDF çıkarır, data ucu olmayan odaları
 
 1. **ODA File Converter'ı kurun** (ücretsiz, bir kez): <https://www.opendesign.com/guestfiles/oda_file_converter>
    Program DWG dosyalarını bununla okur. Varsayılan klasöre kurun (`C:\Program Files\ODA\...`).
-2. **Programı indirin:** bu sayfanın sağındaki **Releases** bölümünden en son sürümdeki `DWG Kat PDF.exe` dosyasını indirin.
+2. **Programı indirin:** bu sayfanın sağındaki **Releases** bölümünden en son sürümdeki `DWG.Kat.PDF.exe` dosyasını indirin.
 3. Dosyaya çift tıklayın. Kurulum yok; istediğiniz klasörde durabilir.
 
 İlk açılışta Windows "Windows kişisel bilgisayarınızı korudu" uyarısı verebilir (program imzalı değil).
@@ -69,7 +69,7 @@ Katman ve blok adları `dwg_kat_pdf.py` dosyasının başındaki sabitlerdir.
 
 ## Güncelleme
 
-Yeni sürüm çıktığında **Releases** sayfasından yeni `DWG Kat PDF.exe` dosyasını indirip eskisinin yerine koyun.
+Yeni sürüm çıktığında **Releases** sayfasından yeni `DWG.Kat.PDF.exe` dosyasını indirip eskisinin yerine koyun.
 
 ## Kaynaktan çalıştırma (isteğe bağlı)
 
