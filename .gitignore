@@ -1,0 +1,17 @@
+# working notes (private) and things that are built or downloaded
+CLAUDE.md
+NOTLAR.md
+.claude/
+.scratch/
+.cache/
+__pycache__/
+build/
+dist/
+*.spec
+installers/
+# never commit drawings or their outputs
+*.dwg
+*.dxf
+*.pdf
+*.docx
+*.zip
